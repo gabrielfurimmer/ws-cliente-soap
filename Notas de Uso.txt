@@ -1,0 +1,4 @@
+Se realiza consumo en base al servicio calculadora.
+En la clase CalculadoraCliente se realiza la invocación al servicio y su consumo con las diferentes operaciones.
+Obtenemos la url del servicio gracias al objeto creado de la clase CalculadoraImplService.
+Se utilizó la herramienta Web Service Client de eclipse para la generación de clases ligadas al servicio creado para fines de prueba.
